@@ -1,0 +1,14 @@
+site_name: Shitpaster
+pages:
+    - Home: index.md
+    - Alchemist:
+        - Intro: alchemist/intro.md
+theme: 
+    name: material
+    palette:
+        primary: 'lime'
+        accent: 'lime'
+    language: 'zh'
+extra:
+    search:
+        language: 'en, zh, jp'
