@@ -12,3 +12,6 @@ theme:
 extra:
     search:
         language: 'en, zh, jp'
+google_analytics:
+    - 'UA-110543850-1'
+    - 'auto'
