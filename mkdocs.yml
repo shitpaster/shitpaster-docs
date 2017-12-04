@@ -3,6 +3,7 @@ pages:
     - Home: index.md
     - Alchemist:
         - Intro: alchemist/intro.md
+        - 组件: alchemist/components.md
 theme: 
     name: material
     palette:
